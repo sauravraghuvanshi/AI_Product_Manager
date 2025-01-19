@@ -6,14 +6,14 @@ As a product manager, staying ahead of the curve with AI expertise is crucial in
 
 This repo is for product managers who want to build AI products. It does not require any prior familiarity with AI. You'll start by learning how AI can be applied, the different types of AI, data needs for AI, and the AI product lifecycle. Then, you'll dive deeper into two types of AI that can leverage existing datasets: personalization and forecasting. You'll learn some technical details about how these models work and how to evaluate them. Finally, you'll pull this all together into a project where you'll develop a PRD for an AI-enabled gift recommendation system in an e-commerce setting.
 
-### Using AI and Machine Learning in Business
+#### Using AI and Machine Learning in Business
 - **`Introduction to AI and Machine Learning:`** Understand the essential concepts of AI and machine learning.
 - **`Industry Applications:`** Explore examples of traditional and generative AI across various industries.
 - **`Make a Business Case for AI:`** Learn how to identify potential AI applications within your organization and create compelling AI solution proposals.
 - **`Measure Success for AI Solutions:`** Master the importance of outcome metrics to ensure your AI projects deliver tangible benefits.
 
 
-#### Inroduction to AI & ML
+#### Introduction to AI & ML
 
 ![Artificial Intelligence](Images/image.png)
 
@@ -57,3 +57,8 @@ Below is a list of some of the things AI can do:
 - Audio generation
 - Code generation
 - Image generation
+
+#### What AI Cannot Do (Well)
+
+Despite its advancements, AI still struggles with tasks requiring an **understanding of context and common sense, empathy, or the application of ethical principles.** Due to its reliance on training data, AI can also fail to adapt to completely new tasks without prior examples. Tasks that involve developing empathetic relationships, **making ethical judgment calls,** or showing cultural sensitivity remain out of reach for today's AI systems. However, as technology continues to evolve, it's possible that AI will improve in these areas, slowly closing the gap between what humans and machines can do.
+
