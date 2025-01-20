@@ -13,7 +13,7 @@ This repo is for product managers who want to build AI products. It does not req
 - **`Measure Success for AI Solutions:`** Master the importance of outcome metrics to ensure your AI projects deliver tangible benefits.
 
 
-#### Introduction to AI & ML
+### Introduction to AI & ML
 
 ![Artificial Intelligence](Images/image.png)
 
@@ -61,4 +61,23 @@ Below is a list of some of the things AI can do:
 #### What AI Cannot Do (Well)
 
 Despite its advancements, AI still struggles with tasks requiring an **understanding of context and common sense, empathy, or the application of ethical principles.** Due to its reliance on training data, AI can also fail to adapt to completely new tasks without prior examples. Tasks that involve developing empathetic relationships, **making ethical judgment calls,** or showing cultural sensitivity remain out of reach for today's AI systems. However, as technology continues to evolve, it's possible that AI will improve in these areas, slowly closing the gap between what humans and machines can do.
+
+### Machine Learning Algorithms
+
+**Machine learning** is a field of computer science where computers learn from data to make predictions or decisions without being programmed for each specific task.
+
+#### Supervised Learning:
+
+Supervised learning models learn from labelled data and map inputs to correct outputs based on provided examples. In supervised learning, **classification** predicts categories or groups for given input data. The goal is to assign inputs to specific classes based on their features, such as determining whether or not an email is spam. In contrast, **regression** focuses on predicting continuous or numeric values. It aims to model the relationship between input features and output values, such as estimating the price of a house based on its size, location, or other features.
+
+#### Unsupervised Learning
+
+Unsupervised learning models learn from **unlabeled data**, discovering patterns and groupings without specific guidance. A type of unsupervised learning called clustering involves grouping data points into clusters based on their similarities. Its goal is to identify natural groupings within the data, such as segmenting customers into different market segments based on purchasing behavior. Alternatively, anomaly detection focuses on identifying data points that stand out from the norm. It aims to find unusual patterns or outliers, such as identifying fraudulent transactions in financial data.
+
+#### Reinforcement Learning
+
+Reinforcement learning models learn by having an agent interact with an environment and receive rewards (or penalties) to develop optimal strategies (or policies) to achieve a desired outcome (or state).
+For example, game-playing AI learns a model of the game's rules (how the game state changes with each move) and uses this model to guess future states and plan optimal moves, like in the AlphaGo algorithm for playing Go.
+
+### Moodel Training
 
