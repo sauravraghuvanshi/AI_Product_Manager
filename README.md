@@ -109,3 +109,25 @@ Blue River Technology's See & Spray product, acquired by John Deere for over $30
 
 #### Case Study: Duolingo
 Duolingo leverages AI such as large language models (LLMs) to enhance its language learning platform. The Duolingo Max product uses **natural language understanding, generative AI for text creation, and machine translation** to provide features like instant feedback and detailed explanations. The "Roleplay" feature allows users to practice realistic conversations with AI, while the "Explain My Answer" feature helps users understand their mistakes. These enhancements create a more immersive and effective learning environment, increasing user engagement and improving learning outcomes.
+
+### AI Project Lifecycle
+
+#### Some Causes of ML Project Failure
+- **`Solving the wrong problem:`** Some projects fail because they do not address a problem that is important to end-users or the business.
+- **`Not having the right data:`** Projects can fail due to a lack of access to necessary data, collecting the wrong type of data, or having poor-quality data.
+- **`Not having the right team.`** The AI field faces a significant talent shortage, making it challenging for companies to assemble teams with the necessary expertise for successful AI development.
+
+To mitigate these issues, use research to ensure you're solving a significant problem, invest in strategic data collection and access to high-quality and relevant data, and take your time to assemble a team with the necessary domain expertise.
+
+
+#### CRISP-DM Process
+
+The CRISP-DM (Cross-Industry Standard Process for Data Mining) is an iterative methodology for data mining and analytics projects. It provides a structured approach to planning and executing data-related tasks, including AI and ML projects.
+
+Steps of the CRISP-DM Process:
+1. **Business Understanding:** Define project objectives and requirements from a business perspective.
+1. **Data Understanding:** Collect and analyze data to identify quality issues and insights.
+1. **Data Preparation:** Clean and transform data to make it suitable for modeling.
+1. **Modelling:** Apply appropriate algorithms to the data to build models.
+1. **Evaluation:** Assess the models to ensure they meet business objectives and criteria.
+1. **Deployment:** Implement the model in a real-world environment and monitor its performance.
