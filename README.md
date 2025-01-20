@@ -81,3 +81,31 @@ For example, game-playing AI learns a model of the game's rules (how the game st
 
 ### Moodel Training
 
+**Model training** involves teaching a machine learning model to make accurate predictions by providing it with data and allowing it to learn patterns and relationships within that data. This iterative process continues until the model reliably performs its task on new, unseen data.
+
+A few key elements in model training are data, design, compute, and tuning. To fully understand the diversity of real-world scenarios, models must be provided with a large amount of **data** so that they can generalize. When choosing the **design** or architecture for a model, engineers must consider the specific problem and computational resources available to solve it. Finally, careful **tuning**, or adjusting model parameters, is important for improving its effectiveness in making predictions with new data. When a model's predictions cannot be generalized due to its close alignment to its original dataset, that's called overfitting.
+
+#### Choosing Data for Training Your AI Models
+
+Data is crucial for training AI models because it provides examples from which the model learns patterns and relationships, enabling accurate future predictions. When collecting data for your models, keep these points in mind:
+- Relevance: Ensure your data is relevant to the specific problem your model aims to solve so it learns the right patterns.
+- Diversity: Make sure your data covers a wide range of scenarios to help your model generalize to new situations
+- Quality: High-quality data reduces errors and inconsistencies, leading to more reliable and accurate predictions.
+
+### Traditional vs. Generative AI
+
+**Generative AI** creates new content, like text, images, videos, and audio, by learning patterns from large datasets, often using unlabeled data. Unlike traditional AI, which analyzes input to produce predictions or classifications, generative AI uses neural networks to generate creative outputs based on prompts. A **prompt** is a text or instruction given to the AI model to guide the content it creates.
+
+For instance, given a descriptive prompt, a generative model can create a new image in a specific art style by drawing on its training from thousands of paintings. **Foundation models** from companies like Meta, OpenAI, or Google simplify this process by providing pre-trained models that can be fine-tuned for specific tasks.
+
+Generative AI can create realistic images, write human-like text for chatbots, compose music, create marketing materials, and more. This technology expands the possibilities of what AI can achieve, offering innovative solutions across industries.
+
+### ML in Business
+
+AI is revolutionizing industries by boosting productivity, fostering innovation, and generating new opportunities across various sectors. In **manufacturing**, AI is transforming production processes and maintenance schedules with predictive analysis that can reduce costs. **Healthcare** benefits from AI through quick diagnostics and streamlined drug delivery, enhancing patient care and treatment efficiency. Additionally, in **transportation**, AI drives efficiency in logistics and is advancing self-driving technology, revolutionizing the movement of goods and people.
+
+#### Case Study: Blue River Technology
+Blue River Technology's See & Spray product, acquired by John Deere for over $300 million, is transforming agriculture by combining robotics, machine learning, and computer vision. This technology differentiates weeds from crops in real-time and selectively sprays herbicides. It uses **image recognition** to accurately target weeds and minimize chemical usage. This helps to combat herbicide resistance caused by overuse and reduces operational costs thus promoting more sustainable farming practices.
+
+#### Case Study: Duolingo
+Duolingo leverages AI such as large language models (LLMs) to enhance its language learning platform. The Duolingo Max product uses **natural language understanding, generative AI for text creation, and machine translation** to provide features like instant feedback and detailed explanations. The "Roleplay" feature allows users to practice realistic conversations with AI, while the "Explain My Answer" feature helps users understand their mistakes. These enhancements create a more immersive and effective learning environment, increasing user engagement and improving learning outcomes.
