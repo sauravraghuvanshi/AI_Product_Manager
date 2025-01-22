@@ -159,3 +159,30 @@ With a thorough understanding of the problem context, success metrics, and poten
 2. **Specify Goals and Measure Success:** Establish clear goals, define outcome metrics, and outline the project's expected impact.
 3. **Detail Scope, Timeline, and Resources:** Create a detailed plan for data collection, model development, and result assessment, including a timeline and resource allocation.
 4. **Identify Risks and Mitigation Strategies:** Evaluate potential risks and develop mitigation strategies, ensuring the proposal is comprehensive and ready for implementation.
+
+### Outcome Metrics
+
+Outcome metrics measure the impact or results of a project on strategic business objectives. For example, in a public health initiative aiming to reduce diabetes, an outcome metric could be the percentage reduction in new diabetes cases over a year. On the other hand, output metrics are focused on measuring the immediate results of an activity, such as the number of community screenings conducted or the number of educational workshops delivered as part of the public health initiative.
+
+Outcome metrics are important because they provide insight into the effectiveness and value of an initiative, helping organizations understand if their efforts are leading to the desired changes or benefits. To choose good outcome metrics, be sure they are:
+- **Relevant:** They should align closely with the strategic goals and objectives of the organization or project, ensuring they measure what truly matters.
+- **Measurable:** They should be quantifiable, allowing for clear, objective tracking and assessment of progress and impact over time.
+- **Actionable:** They should provide insights that can inform decision-making and drive improvements, helping to refine strategies and enhance overall effectiveness.
+
+#### Metrics to Increase
+- Revenue Growth
+- Customer Lifetime Value
+- Net Promoter Score (NPS)
+- Customer Satisfaction
+- Conversion Rate
+- Customer Retention Rate
+- Productivity
+
+#### Metrics to Decrease
+- Customer Acquisition Cost
+- Operating Costs
+- Downtime
+- Churn Rate
+- Cycle Time
+- Debt Levels
+- Response Time
